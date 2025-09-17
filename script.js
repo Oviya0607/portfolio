@@ -132,14 +132,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     /* ----------------------------------------------------------------------------------------------------
-       📌 Education Section To add Your Education to add manually in This Below content (Manual JSON)
+        Education Section To add Your Education to add manually in This Below content (Manual JSON)
     ------------------------------------------------------------------------------------------------------- */
 
 
     const educationData = [
 
         // ---------------------------------------------------------
-        // ✅ Add more Education manually here:
+        //  Add more Education manually here:
         // ---------------------------------------------------------
 
 
@@ -178,11 +178,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     /* ----------------------------------------------------------------------------------------------
-       📌 Project Section To add Your project to add manually in This Below content (Manual JSON)
+        Project Section To add Your project to add manually in This Below content (Manual JSON)
     ------------------------------------------------------------------------------------------------- */
     const projectsData = [
         // -------------------------------------------------
-        // ✅ Add more projects manually here:
+        //  Add more projects manually here:
         // -------------------------------------------------
 
 
@@ -224,12 +224,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     /* -------------------------------------------------------------------------------------------------
-    📌 Certification Section To add certification in the below content (Manual JSON)
+     Certification Section To add certification in the below content (Manual JSON)
     ---------------------------------------------------------------------------------------------------- */
     const certificationsData = [
 
         // -------------------------------------------------
-        // ✅ Add more Certification Details Manually here:
+        //  Add more Certification Details Manually here:
         // -------------------------------------------------
 
 
@@ -278,12 +278,12 @@ document.addEventListener('DOMContentLoaded', () => {
 // Inside your DOMContentLoaded event (add this below certificationsData rendering)
 
 // -------------------------------------------------------------------------------------------------
-// 📌 Skills Section To add skills manually in JSON
+//  Skills Section To add skills manually in JSON
 // -------------------------------------------------------------------------------------------------
 const skillsData = [
 
     // -------------------------------------------------
-    // ✅ Add more Skills manually here:
+    //  Add more Skills manually here:
     // -------------------------------------------------
 
 
